@@ -5,7 +5,7 @@ M.Tech (Communications) | Patent Holder
 
 ---
 
-I bring an unusual combination to AI research: 30 years of operational experience 
+I bring an unusual combination to AI research: 20 years of operational experience 
 in field communications, electronic warfare, and signal intelligence — and a 
 PhD at IIT Delhi applying machine learning to large-scale audio analysis problems.
 
