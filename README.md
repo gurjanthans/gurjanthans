@@ -34,5 +34,5 @@ Python · PyTorch · TensorFlow · Librosa · Scikit-learn · Audio DSP
 Open to collaboration on applied ML, audio intelligence, signal processing, 
 and defence-adjacent AI research.
 
-📧 gurjant.singh@dbst.iitd.ac.in  
+📧 gurjanthans@yahoo.com
 🔗 [Medium](https://medium.com/@gurjanthans) · [Google Scholar](https://scholar.google.com/citations?user=_uOEOWwAAAAJ&hl=en)
