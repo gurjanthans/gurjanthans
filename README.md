@@ -1,39 +1,38 @@
-👋 Hi, I’m Gurjant Singh
+## Gurjant Singh
 
-🎓 PhD Research Scholar | IIT Delhi
-🔬 Artificial Intelligence • Machine Learning • Audio Intelligence
+**PhD Research Scholar — IIT Delhi** | AI & Machine Learning |
+M.Tech (Communications) | Patent Holder
 
-I am a PhD research scholar at the Indian Institute of Technology Delhi (IIT Delhi), working at the intersection of Artificial Intelligence, Machine Learning, and intelligent audio analysis.
+---
 
-🔬 Research Interests
+I bring an unusual combination to AI research: 30 years of operational experience 
+in field communications, electronic warfare, and signal intelligence — and a 
+PhD at IIT Delhi applying machine learning to large-scale audio analysis problems.
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🎧 AI-based Audio & Speech Intelligence
-* 🔎 Anomaly Detection & Classification
-* 🧠 Representation Learning
-* 📊 Machine Learning for Signal Processing
-* 🔊 Acoustic Event Detection
-* ⚙️ Robust AI under Real-World / Noisy Conditions
+My patent in GSM interception technology reflects work that sits at the boundary 
+of real-world signal intelligence and applied AI — the same boundary my research 
+now explores algorithmically.
 
-🌱 Currently Working On
+---
 
-My current research focuses on developing AI-driven methods for intelligent analysis and prioritization of large-scale audio data, with particular interest in anomaly detection, acoustic event classification, representation learning, and robust machine learning.
+### Research Focus
 
-🛠️ Technical Interests
+- AI-based intelligent communication solutions for real-world deployment
+- AI-based analysis and triage of large-scale intercepted audio
+- Anomaly detection and acoustic event classification under noisy/degraded conditions
+- Codec-robust representation learning for speech and audio
+- ML for signal processing in resource-constrained, real-world environments
 
-Python · PyTorch · TensorFlow · Machine Learning · Deep Learning · Audio Signal Processing · Computer Vision · Data Analysis
+### Stack
 
-🤝 Collaboration
+Python · PyTorch · TensorFlow · Librosa · Scikit-learn · Audio DSP
 
-I am interested in collaborating on:
+---
 
-* Research projects in AI/ML
-* Audio and speech intelligence
-* Anomaly detection
-* Signal processing and deep learning
-* Applied machine learning problems
-* Open-source research implementations
+### Interests & Collaboration
 
-📫 Contact
+Open to collaboration on applied ML, audio intelligence, signal processing, 
+and defence-adjacent AI research.
 
-📧 gurjant.singh@dbst.iitd.ac.in
+📧 gurjant.singh@dbst.iitd.ac.in  
+🔗 [Medium](https://medium.com/@gurjanthans) · [Google Scholar](https://scholar.google.com/citations?user=_uOEOWwAAAAJ&hl=en)
